@@ -53,8 +53,4 @@ Here are the main sections of the notebook:
 - Improve notebook organization with headings and comments for clarity.
 
 ---
-
-**🖇️ [View the Notebook Here »](Basic Python Project (01).ipynb)**
-
----
 *Completed as part of the TripleTen Data Science Bootcamp.*
